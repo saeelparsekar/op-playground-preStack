@@ -1,0 +1,29 @@
+{
+	"commands": [
+        {
+            "command": "pwd",
+            "description": "Command to find out the path of the current working directory"
+        },
+		{
+            "command": "ls",
+            "description": "command is used to view the contents of a directory"
+        },
+		{
+            "command": "ls -R",
+            "description": "command will list all the files in the sub-directories as well"
+        },
+		{
+            "command": "mkdir opStack",
+            "description": "Use mkdir command to make a new directory"
+        },
+		{
+            "command": "chmod -R 777 opStack",
+            "description": "Command used to change the read, write, and execute permissions of files and directories"
+        },
+		{
+            "command": "rm opStack",
+            "description": "Command is used to delete directories and the contents within them"
+        },
+		
+    ]
+}
