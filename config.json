@@ -17,7 +17,7 @@
             "description": "Use mkdir command to make a new directory"
         },
 		{
-            "command": "rm opStack",
+            "command": "rm -rf opStack",
             "description": "Command is used to delete directories and the contents within them"
         },
 		
