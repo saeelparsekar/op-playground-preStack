@@ -17,10 +17,6 @@
             "description": "Use mkdir command to make a new directory"
         },
 		{
-            "command": "chmod -R 777 opStack",
-            "description": "Command used to change the read, write, and execute permissions of files and directories"
-        },
-		{
             "command": "rm opStack",
             "description": "Command is used to delete directories and the contents within them"
         },
